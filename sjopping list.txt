@@ -16,4 +16,8 @@ WETWet
 fdgff
 
 
+<<<<<<< HEAD
 DFasgearg
+=======
+dagg
+>>>>>>> 17916ffe5b59dee1aa93f2e639fe2e1a39208810
